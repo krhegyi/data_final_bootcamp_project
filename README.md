@@ -31,7 +31,8 @@ The visualization (and the presentation) were created in Tableau -see link at th
 ## Conclusions
 
 Based on the statistical analysis the cheaper airlines don't delay significantly more compared to the more expensive ones, thus **I reject my hypothesis**.
-Important to metnion that this analysis were examining only flights arriving to Germany, for a shorter period of time. The conclusions can apply only for this limited dataset.
+
+Important to mention that this analysis were examining only flights arriving to Germany, for a shorter period of time. The conclusions can apply only for this limited dataset.
 
 
 ## Datasets
