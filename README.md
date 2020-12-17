@@ -27,6 +27,8 @@ The Global flight price ranking gave the basis of the 4 categories for how expen
 
 The visualization (and the presentation) were created in Tableau -see link at the bottom of this page.
 
+I also created a Machine Learning model, which helps to predict if a flight will be delayed or not.
+
 
 ## Conclusions
 
