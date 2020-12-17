@@ -12,7 +12,7 @@ Final project of the Data Analytics Fulltime Bootcamp
 
 ## Project Description
 
-Are the flights from low-cost airlines delay more? Cheap airlines working with tighter timeline, they turnaround time is significantly less compared to the higher ranked companies. In my analysis I went behind to this assumption to see whether it's true.
+Are the flights from low-cost airlines delay more? Cheap airlines working with tighter timeline, their turnaround time is significantly less compared to the higher price ranked companies. In my analysis I went behind to this assumption to see whether it's true.
 
 **Hypothesis:** The economic airlines delay more.
 
