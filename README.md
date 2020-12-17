@@ -40,5 +40,5 @@ The visualization (and the presentation) were created in Tableau -see link at th
 
 
 ## Links
-[Presentation]: https://public.tableau.com/profile/kristof.hegyi#!/vizhome/Thepriceofcheapflights/Presentationflightdelays
+Presentation in Tableau: https://public.tableau.com/profile/kristof.hegyi#!/vizhome/Thepriceofcheapflights/Presentationflightdelays
 
