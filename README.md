@@ -17,11 +17,19 @@ Are the flights from low-cost airlines delay more? Cheap airlines working with t
 **Hypothesis:** The economic airlines delay more.
 
 
-## Methodology
+## Methodology, workflow
 
-In my analysis I used data for all Europen flights arriving to any of the German airport between 1st June 2020 and 31st August 2020. This dataset contains about 111.000 data points.
+In my analysis I used data for all Europen flights arriving to any of the German airport between 1st June 2020 and 31st August 2020. This dataset contains about 111.000 data points, which was collected via API.
+
+The European airports' IATA codes, and the Global flight rice ranking list were gathered through web scraping.
+
+The Global flight price ranking gave the basis of the 4 categories for how expensive an airline is. These four categories (low-cost, moderately low, moderately expensive, expensive) were compared to each other and were analysed via statistical method (ANOVA analysis).
+
+The visualization (and the presentation) were created in Tableau -see link at the bottom of this page.
+
 
 ## Conclusions
+
 
 
 ## Datasets
@@ -33,4 +41,5 @@ In my analysis I used data for all Europen flights arriving to any of the German
 
 ## Links
 
-Presentation
+[Presentation]: https://public.tableau.com/profile/kristof.hegyi#!/vizhome/Thepriceofcheapflights/Presentationflightdelays
+
